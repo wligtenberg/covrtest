@@ -3,4 +3,3 @@
 export(testme)
 import(boot)
 import(data.table)
-import(dissolution)
