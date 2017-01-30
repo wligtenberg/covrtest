@@ -1,0 +1,19 @@
+Package: covrtest
+Title: Find out more about issue #244
+Version: 0.0.1
+Date: 2017-01-27
+Authors@R: person("Willem", "Ligtenberg", email = "ligtenberg@drreddys.com", role = c("aut", "cre"))
+Description: Find out more about issue #244
+Depends:
+    R (>= 3.0.0)
+Imports:
+    boot,
+    data.table,
+Suggests:
+    covr,
+    testthat
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
