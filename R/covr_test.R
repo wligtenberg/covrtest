@@ -2,7 +2,7 @@
 #'
 #' @return a bootstrapped value
 #' @export
-#' @import data.table boot dissolution
+#' @import data.table boot
 testme <- function(random_seed = 42){
   set.seed(random_seed)
 
